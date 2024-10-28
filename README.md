@@ -17,7 +17,7 @@ The project involves the following steps:
 ## Usage
 1) Clone the repository to your local machine using the following command:
 ```
-git clone https://github.com/kajolshah310/imdb_sentiment_classification.git
+git clone https://github.com/atharvapatil1/imdb_sentimental_classification
 ```
 2) Open the project in your preferred IDE or notebook environment.
 
